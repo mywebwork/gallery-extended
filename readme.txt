@@ -45,9 +45,12 @@ If you have any questions or comments, please drop me an email: http://vidanov.c
 
 = 1.0 =
 * Initial release
+= 1.01 =
+* Fixed Call to undefined function get_post_thumbnail_id()  error 
 
 == Upgrade Notice ==
 
 = 1.0 =
 * Initial release
-
+= 1.01 =
+* Fixed Call to undefined function get_post_thumbnail_id()  error 

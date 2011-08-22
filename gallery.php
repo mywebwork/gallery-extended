@@ -105,7 +105,7 @@ function av_gallery_shortcode($attr) {
 			{ $end=$attr['end'];}
 						
 // CHANGED
-	$thumb_id=get_post_thumbnail_id($post_id);
+
 	foreach ( $attachments as $id => $attachment ) {
 		
 		$counter++; // CHANGED
