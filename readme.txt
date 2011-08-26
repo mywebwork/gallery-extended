@@ -3,7 +3,7 @@ Contributors: Alexey Vidanov
 Tags: plugin, posts, gallery,admin,image 
 Requires at least: 3.0
 Tested up to: 3.2
-Stable tag: 1.1
+Stable tag: 1.2
 
 This plugin adds to [gallery] short code the start and end attributes to enable slice the post gallery and show different parts of them.
 
@@ -53,6 +53,9 @@ If you have any questions or comments, please drop me an email: http://vidanov.c
 * Fixed Call to undefined function get_post_thumbnail_id()  error 
 = 1.1 =
 * Added options page 
+= 1.2 =
+* Numbers fix
+
 
 == Upgrade Notice ==
 

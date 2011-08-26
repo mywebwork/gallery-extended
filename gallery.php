@@ -3,7 +3,7 @@
 Plugin Name: Gallery Extended
 Plugin URI: http://vidanov.com/gallery-extended
 Description: Additional standard Wordpress gallery capabilities
-Version: 1.0
+Version: 1.2
 Author: Vidanov
 Author URI: http://vidanov.com
 */
@@ -100,9 +100,9 @@ function av_gallery_shortcode($attr) {
 	$end=100000;
 	$counter = -1;
 			if ( isset( $attr['start'] ) ) 
-			{ $start=$attr['start'];}
+			{ $start=$attr['start']+1;}
 			if ( isset( $attr['end'] ) ) 
-			{ $end=$attr['end'];}
+			{ $end=$attr['end']+1;}
 						
 // CHANGED
 
