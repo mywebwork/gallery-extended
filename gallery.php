@@ -3,7 +3,7 @@
 Plugin Name: Gallery Extended
 Plugin URI: http://vidanov.com/gallery-extended
 Description: Additional standard Wordpress gallery capabilities
-Version: 1.0
+Version: 1.1
 Author: Vidanov
 Author URI: http://vidanov.com
 */
