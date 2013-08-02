@@ -9,6 +9,8 @@ This plugin adds to [gallery] short code the start and end attributes to enable 
 
 == Description ==
 
+= This plugin is out of date! Please use it instead of the standard functionality. =
+
 With this plugin it is possible to put the part of the gallery in the post using start and stop attributes. 
 
 Example of use:
