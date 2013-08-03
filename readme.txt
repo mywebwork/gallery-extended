@@ -1,15 +1,15 @@
 === Gallery-Extended ===
-Contributors: Alexey Vidanov
-Tags: plugin, posts, gallery,admin,image 
+Contributors: vidanov, versusbassz
+Tags: plugin, posts, gallery, admin, image 
 Requires at least: 3.0
-Tested up to: 3.2
+Tested up to: 3.6
 Stable tag: 1.2
 
 This plugin adds to [gallery] short code the start and end attributes to enable slice the post gallery and show different parts of them.
 
 == Description ==
 
-= This plugin is out of date! Please use it instead of the standard functionality. =
+= This plugin is out of date! Please use standard WP functionality, which is now much more flexible than this plugin. =
 
 With this plugin it is possible to put the part of the gallery in the post using start and stop attributes. 
 
@@ -49,15 +49,16 @@ If you have any questions or comments, please drop me an email: http://vidanov.c
 
 == Changelog ==
 
-= 1.0 =
-* Initial release
-= 1.01 =
-* Fixed Call to undefined function get_post_thumbnail_id()  error 
-= 1.1 =
-* Added options page 
+= 1.2.1 =
+* Plugin is deprecated
 = 1.2 =
 * Numbers fix
-
+= 1.1 =
+* Added options page
+= 1.01 =
+* Fixed Call to undefined function get_post_thumbnail_id()  error
+= 1.0 =
+* Initial release
 
 == Upgrade Notice ==
 
